@@ -1,1 +1,0 @@
-# rwth-notenstreicher
