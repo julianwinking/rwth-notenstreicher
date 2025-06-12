@@ -1,0 +1,273 @@
+{
+  "description": "Sample RWTH transcript data with modules and courses structure",
+  "modules": [
+    {
+      "Module": "Bookkeeping and Management Accounting",
+      "Grade": 1.0,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Bookkeeping and Management Accounting", "Grade": 1.0, "Credits": 5, "Semester": 1}
+      ]
+    },
+    {
+      "Module": "Decision Theory",
+      "Grade": 2.7,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Decision Theory", "Grade": 2.7, "Credits": 5, "Semester": 1}
+      ]
+    },
+    {
+      "Module": "Mathematics I",
+      "Grade": 2.0,
+      "Credits": 7,
+      "Courses": [
+        {"Course": "Mathematics I", "Grade": 2.0, "Credits": 7, "Semester": 1}
+      ]
+    },
+    {
+      "Module": "Machine Design I and CAD Introduction",
+      "Grade": 1.0,
+      "Credits": 4,
+      "Courses": [
+        {"Course": "Machine Design I", "Grade": 1.0, "Credits": 3, "Semester": 1},
+        {"Course": "CAD Introduction", "Grade": 1.0, "Credits": 1, "Semester": 2}
+      ]
+    },
+    {
+      "Module": "Physics",
+      "Grade": 1.0,
+      "Credits": 4,
+      "Courses": [
+        {"Course": "Physics for Mechanical Engineering", "Grade": 1.0, "Credits": 4, "Semester": 1}
+      ]
+    },
+    {
+      "Module": "Mechanics I",
+      "Grade": 1.0,
+      "Credits": 7,
+      "Courses": [
+        {"Course": "Mechanics I for Business Engineering", "Grade": 1.0, "Credits": 7, "Semester": 1}
+      ]
+    },
+    {
+      "Module": "Introduction to Business Administration",
+      "Grade": 1.0,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Introduction to Business Administration", "Grade": 1.0, "Credits": 5, "Semester": 2}
+      ]
+    },
+    {
+      "Module": "Mathematics II/III",
+      "Grade": 1.5,
+      "Credits": 14,
+      "Courses": [
+        {"Course": "Mathematics II", "Grade": 1.0, "Credits": 7, "Semester": 2},
+        {"Course": "Mathematics III", "Grade": 2.0, "Credits": 7, "Semester": 3}
+      ]
+    },
+    {
+      "Module": "Quality and Project Management",
+      "Grade": 1.0,
+      "Credits": 2,
+      "Courses": [
+        {"Course": "Quality and Project Management", "Grade": 1.0, "Credits": 2, "Semester": 2}
+      ]
+    },
+    {
+      "Module": "Mechanics II/III",
+      "Grade": 1.3,
+      "Credits": 15,
+      "Courses": [
+        {"Course": "Mechanics II for Business Engineering", "Grade": 1.0, "Credits": 7, "Semester": 2},
+        {"Course": "Mechanics III (Dynamics) for Business Engineering", "Grade": 1.7, "Credits": 8, "Semester": 3}
+      ]
+    },
+    {
+      "Module": "Thermodynamics I/II",
+      "Grade": 1.3,
+      "Credits": 9,
+      "Courses": [
+        {"Course": "Thermodynamics I/II for Business Engineering", "Grade": 1.3, "Credits": 9, "Semester": 3}
+      ]
+    },
+    {
+      "Module": "Machine Design II",
+      "Grade": 1.0,
+      "Credits": 5.5,
+      "Courses": [
+        {"Course": "Machine Design II", "Grade": 1.0, "Credits": 5.5, "Semester": 3}
+      ]
+    },
+    {
+      "Module": "Production and Logistics",
+      "Grade": 1.0,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Production and Logistics", "Grade": 1.0, "Credits": 5, "Semester": 3}
+      ]
+    },
+    {
+      "Module": "Introduction to Economics",
+      "Grade": 1.0,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Introduction to Economics", "Grade": 1.0, "Credits": 5, "Semester": 3}
+      ]
+    },
+    {
+      "Module": "Statistics for Business Engineering Students",
+      "Grade": 1.0,
+      "Credits": 6,
+      "Courses": [
+        {"Course": "Statistics for Business Engineering Students", "Grade": 1.0, "Credits": 6, "Semester": 4}
+      ]
+    },
+    {
+      "Module": "Machine Design III",
+      "Grade": 1.3,
+      "Credits": 5.5,
+      "Courses": [
+        {"Course": "Machine Design III", "Grade": 1.3, "Credits": 5.5, "Semester": 4}
+      ]
+    },
+    {
+      "Module": "Markets and Strategic Decision Making",
+      "Grade": 1.3,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Markets and Strategic Decision Making", "Grade": 1.3, "Credits": 5, "Semester": 4}
+      ]
+    },
+    {
+      "Module": "Quantitative Methods in Economics",
+      "Grade": 1.0,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Quantitative Methods in Economics", "Grade": 1.0, "Credits": 5, "Semester": 4}
+      ]
+    },
+    {
+      "Module": "Marketing and Procurement",
+      "Grade": 1.0,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Marketing and Procurement", "Grade": 1.0, "Credits": 5, "Semester": 4}
+      ]
+    },
+    {
+      "Module": "Computer Science in Mechanical Engineering",
+      "Grade": 1.7,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Computer Science in Mechanical Engineering", "Grade": 1.7, "Credits": 5, "Semester": 4}
+      ]
+    },
+    {
+      "Module": "Materials Science I, II",
+      "Grade": 1.2,
+      "Credits": 10,
+      "Courses": [
+        {"Course": "Materials Science I", "Grade": 1.0, "Credits": 6, "Semester": 5},
+        {"Course": "Materials Science II", "Grade": 1.7, "Credits": 4, "Semester": 6}
+      ]
+    },
+    {
+      "Module": "Introduction to Empirical Economic Research",
+      "Grade": 1.0,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Introduction to Empirical Economic Research", "Grade": 1.0, "Credits": 5, "Semester": 5}
+      ]
+    },
+    {
+      "Module": "Electronics for the Internet of Things",
+      "Grade": 1.0,
+      "Credits": 4,
+      "Courses": [
+        {"Course": "Electronics for the Internet of Things", "Grade": 1.0, "Credits": 4, "Semester": 5}
+      ]
+    },
+    {
+      "Module": "Capital Budgeting",
+      "Grade": 2.3,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Capital Budgeting", "Grade": 2.3, "Credits": 5, "Semester": 5}
+      ]
+    },
+    {
+      "Module": "Mobile Propulsion Fundamentals",
+      "Grade": 1.3,
+      "Credits": 4,
+      "Courses": [
+        {"Course": "Mobile Propulsion Fundamentals", "Grade": 1.3, "Credits": 4, "Semester": 6}
+      ]
+    },
+    {
+      "Module": "Human Resource Management and Organization",
+      "Grade": 1.3,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Human Resource Management and Organization", "Grade": 1.3, "Credits": 5, "Semester": 6}
+      ]
+    },
+    {
+      "Module": "Strategic Management",
+      "Grade": 1.0,
+      "Credits": 5,
+      "Courses": [
+        {"Course": "Strategic Management", "Grade": 1.0, "Credits": 5, "Semester": 6}
+      ]
+    },
+    {
+      "Module": "Materials Science II",
+      "Grade": 1.7,
+      "Credits": 4,
+      "Courses": [
+        {"Course": "Materials Science II", "Grade": 1.7, "Credits": 4, "Semester": 6}
+      ]
+    },
+    {
+      "Module": "Energy Economy",
+      "Grade": 2.0,
+      "Credits": 4,
+      "Courses": [
+        {"Course": "Energy Economy", "Grade": 2.0, "Credits": 4, "Semester": 6}
+      ]
+    },
+    {
+      "Module": "Automatic Control",
+      "Grade": 1.3,
+      "Credits": 7,
+      "Courses": [
+        {"Course": "Automatic Control", "Grade": 1.3, "Credits": 7, "Semester": 7}
+      ]
+    },
+    {
+      "Module": "Fundamentals of Turbomachines",
+      "Grade": 2.3,
+      "Credits": 4,
+      "Courses": [
+        {"Course": "Fundamentals of Turbomachines", "Grade": 2.3, "Credits": 4, "Semester": 7}
+      ]
+    },
+    {
+      "Module": "Industrial Engineering and Ergonomics",
+      "Grade": 1.3,
+      "Credits": 4,
+      "Courses": [
+        {"Course": "Industrial Engineering and Ergonomics", "Grade": 1.3, "Credits": 4, "Semester": 7}
+      ]
+    },
+    {
+      "Module": "Bachelor Thesis",
+      "Grade": 1.0,
+      "Credits": 15,
+      "Courses": [
+        {"Course": "Bachelor Thesis", "Grade": 1.0, "Credits": 15, "Semester": 7}
+      ]
+    }
+  ]
+}
